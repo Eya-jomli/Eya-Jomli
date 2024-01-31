@@ -11,6 +11,5 @@
 - 📫 Connect on LinkedIn for professional networking and collaborative opportunities.
 - 🌌 Fun fact: "In the world of coding, bugs are our little puzzles to solve!"
 
-- [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=eyajomli)](https://github.com/anuraghazra/github-readme-stats)
 
 
