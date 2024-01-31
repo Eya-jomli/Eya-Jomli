@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Eya Jomli
 
 
 
@@ -12,8 +12,6 @@
 - 🌌 Fun fact: "In the world of coding, bugs are our little puzzles to solve!"
 
 
-
-<h3 align="center">A passionate frontend developer from Tunisia </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eya-jomli&label=Profile%20views&color=0e75b6&style=flat" alt="eya-jomli" /> </p>
 
